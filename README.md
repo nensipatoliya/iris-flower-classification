@@ -65,7 +65,7 @@ Target: - Species
 
 Clone repository:
 
-    git clone https://github.com/nensipatoliya/iris-flower-classification.git
+    https://github.com/nensipatoliya/iris-flower-classification
     cd project
 
 Install dependencies:
