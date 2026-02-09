@@ -3,18 +3,17 @@
 ## 📌 Project Overview
 
 This project implements **Machine Learning classification** on the
-famous **Iris Flower Dataset**.\
+famous **Iris Flower Dataset**.
 The model predicts the species of iris flower using measurements of
 sepal and petal dimensions.
 
-------------------------------------------------------------------------
 
 ## 🎯 Objective
 
-Build ML models to classify iris flowers into: - Iris Setosa - Iris
-Versicolor - Iris Virginica
+Build ML models to classify iris flowers into: - Iris Setosa 
+                                               - Iris Versicolor
+                                               - Iris Virginica
 
-------------------------------------------------------------------------
 
 ## 📊 Dataset Information
 
@@ -22,7 +21,6 @@ Features used: - Sepal Length - Sepal Width - Petal Length - Petal Width
 
 Target: - Species
 
-------------------------------------------------------------------------
 
 ## 🤖 Machine Learning Models Used
 
@@ -31,31 +29,28 @@ Target: - Species
 -   Gradient Boosting
 -   XGBoost (Optional)
 
-------------------------------------------------------------------------
 
 ## 📈 Project Workflow
 
-1.  Data Loading\
-2.  Data Cleaning\
-3.  Exploratory Data Analysis (EDA)\
-4.  Feature Engineering\
-5.  Model Training\
-6.  Model Evaluation\
+1.  Data Loading
+2.  Data Cleaning
+3.  Exploratory Data Analysis (EDA)
+4.  Feature Engineering
+5.  Model Training
+6.  Model Evaluation
 7.  Prediction
 
-------------------------------------------------------------------------
 
 ## 🛠️ Technologies Used
 
--   Python\
--   Pandas\
--   NumPy\
--   Matplotlib\
--   Seaborn\
--   Scikit-Learn\
+-   Python
+-   Pandas
+-   NumPy
+-   Matplotlib
+-   Seaborn
+-   Scikit-Learn
 -   XGBoost
 
-------------------------------------------------------------------------
 
 ## 📂 Project Structure
 
@@ -65,20 +60,18 @@ Target: - Species
     ├── requirements.txt
     └── README.md
 
-------------------------------------------------------------------------
 
 ## ⚙️ Installation
 
 Clone repository:
 
-    git clone <your-repo-link>
+    git clone https://github.com/nensipatoliya/iris-flower-classification.git
     cd project
 
 Install dependencies:
 
     pip install -r requirements.txt
 
-------------------------------------------------------------------------
 
 ## ▶️ Usage
 
@@ -90,14 +83,12 @@ Open:
 
     Iris_Flower_Classification.ipynb
 
-------------------------------------------------------------------------
 
 ## 📊 Results
 
 The models achieve high accuracy because the Iris dataset is clean and
 well-structured.
 
-------------------------------------------------------------------------
 
 ## 🚀 Future Improvements
 
@@ -105,12 +96,3 @@ well-structured.
 -   Streamlit Web App
 -   Model Deployment API
 
-------------------------------------------------------------------------
-
-## 👩‍💻 Author
-
-Created for Machine Learning Practice and Learning.
-
-------------------------------------------------------------------------
-
-⭐ If you like this project, give it a star on GitHub!
